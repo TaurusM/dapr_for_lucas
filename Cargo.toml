@@ -1,7 +1,7 @@
 [package]
-name = "dapr"
+name = "dapr_for_lucas"
 version = "0.13.0"
-authors = ["dapr.io"]
+authors = ["lucas"]
 edition = "2021"
 license-file = "LICENSE"
 repository = "https://github.com/dapr/rust-sdk"
